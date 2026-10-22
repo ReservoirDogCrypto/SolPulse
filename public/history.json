@@ -3120,5 +3120,19 @@
   "tvl_usd": 6032176549,
   "stablecoin_supply_usd": 15879645368,
   "dex_volume_24h_usd": 2278262309
+ },
+ {
+  "ts": "2026-10-22T11:12:28.050146+00:00",
+  "tps": 2476.3,
+  "tps_non_vote": 2476.3,
+  "slot_time_ms": 220,
+  "validators_active": 668,
+  "validators_delinquent": 9,
+  "delinquency_pct": 1.33,
+  "nakamoto_coefficient": 18,
+  "sol_price_usd": 104.51,
+  "tvl_usd": 5896494807,
+  "stablecoin_supply_usd": 15888159406,
+  "dex_volume_24h_usd": 2262868195
  }
 ]
